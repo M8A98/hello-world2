@@ -1,3 +1,3 @@
 # hello-world2
-Just remembering how repostories work.
+Just remembering how repositories work.
 Short message.
